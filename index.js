@@ -7,7 +7,7 @@ function happyHolidays() {
 
 //function that takes in a name and returns a message
 function happyHolidaysTo(name) {
-  return `Happy holidays, ${name}`;
+  return `Happy holidays, ${name}!`;
 }
 
 //take in 2 parameters return a message
